@@ -1,5 +1,9 @@
 ## Descripción del Proyecto
 
+<p align="center">
+  <img width="300" height="300" src="badge literalura.png">
+</p>
+
 Es la resolución del **Challenge - Spring Boot LiterAlura** utilizando **JAVA**, **SpringBoot** y **Postgres**. Reto de la formación **Oracle Next Education (ONE)** de **Oracle + Alura LATAM**.
 
 **`OBJETIVO:`** Desarrollar un Catálogo de Libros que ofrezca interacción textual (vía consola) con los usuarios, proporcionando al menos 5 opciones de interacción. Los libros se buscarán a través de una **`API`** específica.
